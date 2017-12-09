@@ -26,4 +26,4 @@ $ dot -Tpng out.dot > out.png
 
 It will create an image like this:
 
-![Bananas generated file](img/bananas.png)
+![Bananas generated file](img/out.png)
