@@ -7,7 +7,7 @@ OBJ=$(SRC:.c=.o)
 
 TEST=mississippi roXor
 
-BIN=trie
+BIN=tree
 
 all: $(BIN)
 
